@@ -104,8 +104,8 @@ collections:
   #   defaults:
   #     layout: post
   #   output: true
-  projects:
-    output: true
+  # projects:
+  #   output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -150,6 +150,8 @@ exclude:
   - _includes/repository/
   - _news/
   - _includes/news.liquid
+  - _projects/
+  - _pages/projects.md
 
 keep_files:
   - CNAME
