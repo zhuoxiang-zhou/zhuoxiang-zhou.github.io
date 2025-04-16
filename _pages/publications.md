@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 permalink: /publications/
 title: Research
 description: Last update: April 2025.
