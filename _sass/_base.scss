@@ -21,8 +21,9 @@ strong {
 
 body {
   font-family: "Merriweather", Georgia, serif;
+  letter-spacing: 0.3px;   // Try 0.3px or 0.4px
+  line-height: 1.6;        // Improves vertical spacing too
 }
-
 
 hr {
   border-top: 1px solid var(--global-divider-color);
