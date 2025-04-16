@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Undergraduate, Economics<br>Peking University</p>
-    <p>Beijing, China</p>
-    <p><a href="mailto:zxzhou21@stu.pku.edu.cn">zxzhou21@stu.pku.edu.cn</a></p>
+    Photo taken at Chengze Garden, Peking University
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
