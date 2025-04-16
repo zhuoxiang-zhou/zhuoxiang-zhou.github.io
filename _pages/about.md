@@ -6,7 +6,7 @@ subtitle: >
   Modest. Motivated. Methodological.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -28,7 +28,7 @@ I’m currently an economics junior at the National School of Development, Pekin
 My research interests lie in labor economics, public economics, and the economics of science. I’m passionate about using empirical tools to study how policy can shape human decisions and welfare.
 
 Currently, I’m working on projects related to:
-- The behavioral impact of early academic recognition on students’ academic and career trajectories  
-- The health and labor productivity benefits of transitioning Indian anemic women from copper to hormonal intrauterine devices (IUDs) via public provision  
-- The effects of excise tax increases on tax incidence, consumer behavior, and welfare implications  
-- Patterns and disruptions in U.S.–China scientific collaboration under geopolitical shocks
+  - The behavioral impact of early academic recognition on students’ academic and career trajectories  
+  - The health and labor productivity benefits of transitioning Indian anemic women from copper to hormonal intrauterine devices (IUDs) via public provision  
+  - The effects of excise tax increases on tax incidence, consumer behavior, and welfare implications  
+  - Patterns and disruptions in U.S.–China scientific collaboration under geopolitical shocks
