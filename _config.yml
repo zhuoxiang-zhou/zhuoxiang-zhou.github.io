@@ -150,10 +150,10 @@ exclude:
   - _includes/repository/
   - _news/
   - _includes/news.liquid
-  # - _projects/
-  # - _pages/projects.md
-  # - _pages/profiles.md
-  # - _pages/teaching.md
+  - _projects/
+  - _pages/projects.md
+  - _pages/profiles.md
+  - _pages/teaching.md
 
 keep_files:
   - CNAME
