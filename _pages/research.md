@@ -7,14 +7,14 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/research.md -->
+## Working Papers
 
-<!-- Bibsearch Feature -->
+- **Crossing the Line: The Role of Academic Excellence Recognition in Shaping Academic and Career Trajectories.** with [Wei Huang](https://huangweipku.com/).
 
-{% include bib_search.liquid %}
+- **Anemia and Copper IUDs: A Machine Learning Estimation Using India's National Family Health Survey.** with [David I. Levine](https://haas.berkeley.edu/faculty/david-i-levine/). (Under Review)
 
-<div class="publications">
+## Work in Progress
 
-{% bibliography %}
+- **The Economic Incidence of Excise Taxes: Tax Pass-Through, Consumer Behavior, and Welfare Impacts.**
 
-</div>
+- **Geopolitical Shocks and the Economics of Scientific Collaboration: Evidence from U.S.-China Research.**
