@@ -91,22 +91,6 @@
       "courses": ["Econometrics (A, PhD-level)", "Introduction to Analysis (A+, Proof-based)", "Topics in Economic Research (A+)"]
     }
   ],
-  "publications": [
-    {
-      "name": "Crossing the Line: The Role of Academic Excellence Recognition in Shaping Academic and Career Trajectories",
-      "publisher": "with Wei Huang",
-      "releaseDate": "2025",
-      "url": "",
-      "summary": "This paper studies the behavioral impact of early academic recognition on students' academic and career trajectories. We provide empirical evidence on the boosting effect of non-material stimulus on human capital accumulation."
-    },
-    {
-      "name": "Anemia and Copper IUDs: A Machine Learning Estimation Using India's National Family Health Survey",
-      "publisher": "with David I. Levine",
-      "releaseDate": "2025",
-      "url": "",
-      "summary": "This paper studies the health and economic benefits of transitioning Indian anemic women from copper to hormonal intrauterine devices (IUDs) via public provision. "
-    }
-  ],
   "awards": [
     {
       "title": "National Scholarship (awarded twice)",
