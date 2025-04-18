@@ -66,7 +66,7 @@
       "startDate": "2022.09",
       "endDate": "2026.06",
       "score": "10",
-      "courses": ["Applied Microeconometrics (A+)", "Data Analysis & Econometric Programming (A+)", "Advanced Macroeconomics (A+, grad-level)", "Computational Economics (A+, grad-level)", "Labor Economics (A+, honor)", "Mathematical Statistics (A+)"]
+      "courses": ["Applied Microeconometrics", "Data Analysis & Econometric Programming", "Advanced Macroeconomics (grad-level)", "Computational Economics (grad-level)", "Labor Economics (honor)", "Mathematical Statistics"]
     },
     {
       "institution": "Harvard University",
@@ -88,7 +88,7 @@
       "startDate": "2024.08",
       "endDate": "2024.12",
       "score": "",
-      "courses": ["Econometrics (A, PhD-level)", "Introduction to Analysis (A+, Proof-based)", "Topics in Economic Research (A+)"]
+      "courses": ["Econometrics (PhD-level)", "Introduction to Analysis (Proof-based)", "Topics in Economic Research"]
     }
   ],
   "awards": [
@@ -107,9 +107,23 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Stata (proficient)",
-        "Python (intermediate)",
+        "Python (proficient)",
         "R (intermediate)",
-        "MATLAB (basic)"
+        "MATLAB (intermediate)",
+        "LaTeX (proficient)"
+      ]
+    },
+    {
+      "name": "Quantitative Methods",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "DiD",
+        "RDD, RDiT",
+        "IV",
+        "Propensity Score Matching",
+        "Synthetic Control",
+        "Double/Debiased Machine Learning (DML)"
       ]
     }
   ],
@@ -123,6 +137,10 @@
       "language": "English",
       "fluency": "Fluent, TOEFL 113",
       "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
     }
   ]
 }
